@@ -30,11 +30,11 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
   + [1.3 Operações envolvendo strings e números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.3.html)
   + [1.4 String convertida em número](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.4.html)
   + [1.5 Tipos de variáveis](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.5.html)
-  + 1.6 [Conversão da entrada para número]()
+  + 1.6 [Conversão da entrada para número](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.6.html)
    
    ## Lista de Exercicios Guiados 📋
    + Capitulo 1
      + [1.1 Calcula e Informa o Dobro](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado1.html)
-     + [1.2 Calcule e informe a soma de dois números]()
+     + [1.2 Calcule e informe a soma de dois números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado2.html)
           
         
