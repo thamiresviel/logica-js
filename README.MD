@@ -25,8 +25,11 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
 ## Lista de Exemplos 📋
 *Busque pela pasta e número do exemplo. EX: Capitulo 1 > Exemplos > exemplo1.1*
 + Capitulo 1
-  + 1.1 Saída de dados com alert
-  + 1.2 Entrada de dados e uso de vari
+  + [1.1 Saída de dados com alert](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.1.html)
+  + [1.2 Entrada de dados e uso de variavél](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.2.html)
+  + [1.3 Operações envolvendo strings e números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.3.html)
+  + [1.4 String convertida em número](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.4.html)
+  + [1.5 Tipos de variáveis](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.5.html)
    
           
         
