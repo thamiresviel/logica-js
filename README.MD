@@ -35,6 +35,6 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
    ## Lista de Exercicios Guiados 📋
 + Capitulo 1
   + [1.1 Calcula e Informa o Dobro](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado1.html)
-  + [1.2 Calcule e informe a soma de dois números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado2.html)
+  + [1.2 Calcula e informa a soma de dois números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado2.html)
           
         

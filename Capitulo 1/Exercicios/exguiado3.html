@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcula a taxa do garçom</title>
+</head>
+<body>
+    <!-- Elaborar um programa que leia o valor de um jantar. Calcule e informe o
+valor da taxa do garçom (10%) e o valor total a ser pago.-->
+<script>
+    // lê o valor do jantar
+    var jantar = Number(prompt("Valor do Jantar R$: "));
+    // calcula os dados
+    var garcom = jantar * 0.10;
+    var total = jantar + garcom;
+    // apresenta as respostas
+    alert("Taxa Garçom R$: " + garcom.toFixed(2) + "\nTotal R$: " + total.toFixed(2));
+</script>
+</body>
+</html>
