@@ -33,8 +33,8 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
   + 1.6 [Conversão da entrada para número](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.6.html)
    
    ## Lista de Exercicios Guiados 📋
-   + Capitulo 1
-     + [1.1 Calcula e Informa o Dobro](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado1.html)
-     + [1.2 Calcule e informe a soma de dois números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado2.html)
++ Capitulo 1
+  + [1.1 Calcula e Informa o Dobro](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado1.html)
+  + [1.2 Calcule e informe a soma de dois números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado2.html)
           
         
