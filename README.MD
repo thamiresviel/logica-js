@@ -48,6 +48,6 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
   
   ## Lista de Excercícios 💥
 + Capitulo 1
-  + [Lista de Exercícios]()
+  + [Lista de Exercícios](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/Lista_Exercicios.MD)
           
         

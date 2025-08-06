@@ -28,7 +28,7 @@ Preço R$: 60.00
 
 Ou 3x de R$: 20.00
 
-5️⃣ *Elaborar um programa que leia 2 notas de um aluno em uma disciplina. Calcule e informe a média das notas.*
+4️⃣ *Elaborar um programa que leia 2 notas de um aluno em uma disciplina. Calcule e informe a média das notas.*
 
 **Exemplo:**
 
