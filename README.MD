@@ -9,11 +9,18 @@ Por [Professora Thamires Viel](https://github.com/thamiresviel) 👩🏼‍🏫
 
 O repositório está estruturado de acordo com os capítulos do livro, facilitando a navegação e o acompanhamento do conteúdo. Cada capítulo possui uma pasta própria, que por sua vez está subdividida em duas subpastas principais:
 
-+ 📁 Exemplos: contém os códigos e materiais utilizados para ilustrar os conceitos apresentados no capítulo.
-
-+ 📁 Lista de Exercícios: reúne os exercícios propostos que devem ser desenvolvidos com base no conteúdo estudado.
++ 📁 Exemplos: contêm os códigos e materiais utilizados para ilustrar os conceitos apresentados no capítulo.
++ 📁 Exercicios:  contêm os códigos dos exercícios resolvidos em sala, com a participação dos alunos
+  + 📝 Lista de Exercícios: reúne os exercícios propostos que devem ser desenvolvidos com base no conteúdo estudado.
 
 Essa organização tem como objetivo proporcionar uma visualização mais clara e didática, separando o conteúdo teórico (exemplos) da parte prática (exercícios), auxiliando no processo de aprendizagem.
+
+🚩 Além disso, a Lista de Exercícios conta com sinalizadores de dificuldade, representados por ícones em forma de coração, conforme a legenda a seguir:
+
+💚 Coração verde – fácil,
+💛 Coração amarelo – médio,
+❤️Coração vermelho – difícil.
+
 
 ## Enunciados e Explicação 📝
 Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá comentários com o enunciado do exemplo e/ou exercício realizado. 
@@ -37,5 +44,10 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
   + [1.1 Calcula e Informa o Dobro](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado1.html)
   + [1.2 Calcula e informa a soma de dois números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado2.html)
   + [1.3 Calcula taxa de 10%](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado3.html)
+  + [1.4 Transforma Dias em Horas](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado4.html)
+  
+  ## Lista de Excercícios 💥
++ Capitulo 1
+  + [Lista de Exercícios]()
           
         
