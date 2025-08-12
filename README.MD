@@ -54,3 +54,7 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
 
 + Capitulo 1
   + [Lista de Exercícios](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/Lista_Exercicios.MD)
+  + [Resposta Exercício A](https://github.com/thamiresviel/logica-js/blob/main/Capitulo%201/Exercicios/resp1_a.html)
+  + [Resposta Exercício B](https://github.com/thamiresviel/logica-js/blob/main/Capitulo%201/Exercicios/resp1_b.html)
+  + [Resposta Exercício C](https://github.com/thamiresviel/logica-js/blob/main/Capitulo%201/Exercicios/resp1_c.html)
+  + [Resposta Exercício D](https://github.com/thamiresviel/logica-js/blob/main/Capitulo%201/Exercicios/resp1_d.html)
