@@ -36,4 +36,4 @@ Ou 3x de R$: 20.00
 
 2ª Nota: 8.0
 
-Média: 7.5
+Média: 7,5

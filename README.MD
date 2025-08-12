@@ -1,5 +1,6 @@
 # Lógica de Programação e Algoritmos com Javascript 🧩
-*Conteúdo desenvolvido utilizando o livro de Edécio Fernando Lepsen - Novatec*
+
+## Conteúdo desenvolvido utilizando o livro de Edécio Fernando Lepsen - Novatec
 
 Por [Professora Thamires Viel](https://github.com/thamiresviel) 👩🏼‍🏫
 
@@ -21,8 +22,8 @@ Essa organização tem como objetivo proporcionar uma visualização mais clara 
 💛 Coração amarelo – médio,
 ❤️Coração vermelho – difícil.
 
-
 ## Enunciados e Explicação 📝
+
 Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá comentários com o enunciado do exemplo e/ou exercício realizado. 
 
 ## Ferramentas e Tecnologias
@@ -30,7 +31,9 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  width="30"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=25 /></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25"/></code>
 
 ## Lista de Exemplos 📋
+
 *Busque pela pasta e número do exemplo. EX: Capitulo 1 > Exemplos > exemplo1.1*
+
 + Capitulo 1
   + [1.1 Saída de dados com alert](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.1.html)
   + [1.2 Entrada de dados e uso de variavél](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.2.html)
@@ -38,8 +41,9 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
   + [1.4 String convertida em número](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.4.html)
   + [1.5 Tipos de variáveis](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.5.html)
   + [1.6 Conversão da entrada para número](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.6.html)
-   
-   ## Lista de Exercicios Guiados 📋
+
+## Lista de Exercicios Guiados 📋
+
 + Capitulo 1
   + [1.1 Calcula e Informa o Dobro](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado1.html)
   + [1.2 Calcula e informa a soma de dois números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado2.html)
@@ -47,7 +51,6 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
   + [1.4 Transforma Dias em Horas](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado4.html)
   
   ## Lista de Excercícios 💥
+
 + Capitulo 1
   + [Lista de Exercícios](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/Lista_Exercicios.MD)
-          
-        
