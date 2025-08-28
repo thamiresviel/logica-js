@@ -59,3 +59,4 @@ Dentro da pasta Exercicios, haverá um arquivo Lista_Exercicios.MD para consulta
   + [Resposta Exercício B](https://github.com/thamiresviel/logica-js/blob/main/Capitulo%201/Exercicios/resp1_b.html)
   + [Resposta Exercício C](https://github.com/thamiresviel/logica-js/blob/main/Capitulo%201/Exercicios/resp1_c.html)
   + [Resposta Exercício D](https://github.com/thamiresviel/logica-js/blob/main/Capitulo%201/Exercicios/resp1_d.html)
+  + [Lista de Exercícios Complementares](https://github.com/thamiresviel/logica-js/blob/main/Cap%C3%ADtulo%201/Exercicios/Lista_Exercicios_Complementares.MD?authuser=0)
