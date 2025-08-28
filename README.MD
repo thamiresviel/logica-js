@@ -8,23 +8,24 @@ Por [Professora Thamires Viel](https://github.com/thamiresviel) 👩🏼‍🏫
 
 ## Organização do Repositório 📂
 
-O repositório está estruturado de acordo com os capítulos do livro, facilitando a navegação e o acompanhamento do conteúdo. Cada capítulo possui uma pasta própria, que por sua vez está subdividida em duas subpastas principais:
+O repositório está estruturado de acordo com os capítulos do livro, o que facilita a navegação e o acompanhamento do conteúdo. Cada capítulo possui uma pasta própria, que, por sua vez, pode estar subdividida em pastas como:
 
 + 📁 Exemplos: contêm os códigos e materiais utilizados para ilustrar os conceitos apresentados no capítulo.
-+ 📁 Exercicios:  contêm os códigos dos exercícios resolvidos em sala, com a participação dos alunos
-  + 📝 Lista de Exercícios: reúne os exercícios propostos que devem ser desenvolvidos com base no conteúdo estudado.
++ 📁 Exercicios: contêm os códigos dos exercícios resolvidos em sala, com a participação dos alunos.
+  + 📝 Lista de Exercícios: reúne os exercícios propostos, que devem ser desenvolvidos com base no conteúdo estudado.
++ 📁 Projetos: reúnem os arquivos de um exemplo que necessita de várias pastas.
 
-Essa organização tem como objetivo proporcionar uma visualização mais clara e didática, separando o conteúdo teórico (exemplos) da parte prática (exercícios), auxiliando no processo de aprendizagem.
+Essa organização tem como objetivo proporcionar uma visualização mais clara e didática, separando o conteúdo teórico (exemplos) da parte prática (exercícios) e, assim, auxiliando no processo de aprendizagem.
 
 🚩 Além disso, a Lista de Exercícios conta com sinalizadores de dificuldade, representados por ícones em forma de coração, conforme a legenda a seguir:
 
 💚 Coração verde – fácil,
 💛 Coração amarelo – médio,
-❤️Coração vermelho – difícil.
+❤️ Coração vermelho – difícil.
 
-## Enunciados e Explicação 📝
+## Enunciados 📝
 
-Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá comentários com o enunciado do exemplo e/ou exercício realizado. 
+Dentro da pasta Exercicios, haverá um arquivo Lista_Exercicios.MD para consulta dos enunciados.
 
 ## Ferramentas e Tecnologias
 
@@ -34,7 +35,7 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
 
 *Busque pela pasta e número do exemplo. EX: Capitulo 1 > Exemplos > exemplo1.1*
 
-+ Capitulo 1
++ **Capitulo 1**
   + [1.1 Saída de dados com alert](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.1.html)
   + [1.2 Entrada de dados e uso de variavél](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.2.html)
   + [1.3 Operações envolvendo strings e números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exemplos/exemplo1.3.html)
@@ -44,7 +45,7 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
 
 ## Lista de Exercicios Guiados 📋
 
-+ Capitulo 1
++ **Capitulo 1**
   + [1.1 Calcula e Informa o Dobro](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado1.html)
   + [1.2 Calcula e informa a soma de dois números](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado2.html)
   + [1.3 Calcula taxa de 10%](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/exguiado3.html)
@@ -52,7 +53,7 @@ Dentro de cada arquivo de código, seja no HTML, seja no Javascript, haverá com
   
   ## Lista de Excercícios 💥
 
-+ Capitulo 1
++ **Capitulo 1**
   + [Lista de Exercícios](https://github.com/thamiresviel/estrutura-dados-js/blob/main/Capitulo%201/Exercicios/Lista_Exercicios.MD)
   + [Resposta Exercício A](https://github.com/thamiresviel/logica-js/blob/main/Capitulo%201/Exercicios/resp1_a.html)
   + [Resposta Exercício B](https://github.com/thamiresviel/logica-js/blob/main/Capitulo%201/Exercicios/resp1_b.html)
