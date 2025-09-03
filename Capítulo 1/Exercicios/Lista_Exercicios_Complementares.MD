@@ -16,4 +16,6 @@ Para a escala Celsius a água é o elemento mais importante para a vida na terra
 **Use a fórmula a seguir:**
 Fahrenheit = 1.8 * Celsius + 32
 
-5. Escreva um programa em JavaScript para ler quatro números inteiros A, B, C e D. Em seguida permitir o cálculo da seguinte expressão: ![alt text](image-1.png) , onde   R = (A+B)   e S = C * D. Imprimir os valores de R, S e T.
+5️⃣ Escreva um programa em JavaScript para ler quatro números inteiros A, B, C e D. Em seguida permitir o cálculo da seguinte expressão: ![alt text](image-1.png) , onde   R = (A+B)   e S = C * D. Imprimir os valores de R, S e T.
+
+6️⃣ Desenvolva um programa em JavaScript para leia dois valores inteiros para as variáveis A e B. Em seguida, efetue a troca dos valores digitados de forma que o valor da variável A passe a ter o valor da variável B, e consequentemente a variável B passe a ter o valor da variável A. Imprimir os valores das variáveis antes e depois da troca.
