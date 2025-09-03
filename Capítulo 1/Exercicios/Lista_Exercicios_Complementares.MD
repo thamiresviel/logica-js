@@ -15,3 +15,5 @@ Para a escala Celsius a água é o elemento mais importante para a vida na terra
 
 **Use a fórmula a seguir:**
 Fahrenheit = 1.8 * Celsius + 32
+
+5. Escreva um programa em JavaScript para ler quatro números inteiros A, B, C e D. Em seguida permitir o cálculo da seguinte expressão: ![alt text](image-1.png) , onde   R = (A+B)   e S = C * D. Imprimir os valores de R, S e T.
